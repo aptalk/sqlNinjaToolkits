@@ -14,4 +14,5 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 | Darling Data Scripts | Erik Darling | [Super-cool troubleshooting...](https://github.com/erikdarlingdata/DarlingData) |
 | SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
 | WhoIsActive | Adam Machanic | [WhoIsActive?](https://github.com/amachanic/sp_whoisactive) |
-| sp_block | Chris Howarth-536003 | [ return blocked process hierarchy ](sp_block.sql)
+| Statistics Parser | Richie Rump | [Online Statistics Parser](https://statisticsparser.com/)
+| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
