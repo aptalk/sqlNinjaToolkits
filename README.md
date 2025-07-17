@@ -13,3 +13,5 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 | SQL Server First Responder Kit | Brent Ozar | [Health checks and more...](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) |
 | Darling Data Scripts | Erik Darling | [Super-cool troubleshooting...](https://github.com/erikdarlingdata/DarlingData) |
 | SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
+| WhoIsActive | Adam Machanic | [WhoIsActive?](https://github.com/amachanic/sp_whoisactive) |
+| sp_block | Chris Howarth-536003 | [ return blocked process hierarchy ](sp_block.sql)
