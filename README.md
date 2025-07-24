@@ -21,7 +21,7 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 |8| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
 
 Notes:
-If using the _**Andy Mallon**_ powershell setup scripts clone the repo then run the following in powershell:
+If using the _**Andy Mallon**_ powershell setup scripts clone the repo then run the following in powershell (if you want to install to a new database named _**DBA**_):
 
 ```
 > Set-Location path_to_repo
