@@ -19,3 +19,12 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 |6| SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
 |7| Statistics Parser | Richie Rump | [Online Statistics Parser ](https://statisticsparser.com/) |
 |8| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
+
+Notes:
+If using the _**Andy Mallon**_ powershell setup scripts clone the repo then run the following in powershell:
+
+```
+> Set-Location path_to_repo
+> .\Get-OpenSourceScripts.ps1 -Verbose
+> .\Install-LatestDbaDatabase.ps1 -InstanceName "DellPro" -Verbose
+```
