@@ -16,9 +16,10 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 |4| WhoIsActive | Adam Machanic | [WhoIsActive?](https://github.com/amachanic/sp_whoisactive) |
 |5| Darling Data Scripts | Erik Darling | [Super-cool troubleshooting...](https://github.com/erikdarlingdata/DarlingData) |
 |||||
-|6| SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
-|7| Statistics Parser | Richie Rump | [Online Statistics Parser ](https://statisticsparser.com/) |
-|8| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
+|6| Glenn's SQL Server Performance |  Glenn Berry | [Glenn's SQL Server Performance](https://glennsqlperformance.com/) |
+|7| SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
+|8| Statistics Parser | Richie Rump | [Online Statistics Parser ](https://statisticsparser.com/) |
+|9| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
 
 Notes:
 If using the _**Andy Mallon**_ powershell setup scripts clone the repo then run the following in powershell (if you want to install to a new database named _**DBA**_):
