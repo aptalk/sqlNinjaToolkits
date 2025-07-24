@@ -7,12 +7,15 @@ Just a small—but mighty—selection of queries and scripts that’ll make your
 
 ### Checkout these amazing resources!
 
-| CodeBase        | Created By | Location _(Ctrl + click to open in a new tab)_ |
-| ------------- |:-------------:| :-------------|
-| SQL Server Maintenance Solution | Ola Hallengren | [Backups and maintenance...](https://github.com/olahallengren/sql-server-maintenance-solution) |
-| SQL Server First Responder Kit | Brent Ozar | [Health checks and more...](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) |
-| Darling Data Scripts | Erik Darling | [Super-cool troubleshooting...](https://github.com/erikdarlingdata/DarlingData) |
-| SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
-| WhoIsActive | Adam Machanic | [WhoIsActive?](https://github.com/amachanic/sp_whoisactive) |
-| Statistics Parser | Richie Rump | [Online Statistics Parser ](https://statisticsparser.com/) |
-| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
+|#| **CodeBase** | **Created By** | **Location _(Ctrl + click to open in a new tab)_** |
+|-| ------------- |:-------------:| :-------------|
+|1| Create Handy DBA Database | Andy Mallon (ᴀᴍ²) | [dba-database](https://github.com/amtwo/dba-database) - this is handy for installing repos 2 to 5 below using powershell into a **DBA** database |
+|||||
+|2| SQL Server Maintenance Solution | Ola Hallengren | [Backups and maintenance...](https://github.com/olahallengren/sql-server-maintenance-solution) |
+|3| SQL Server First Responder Kit | Brent Ozar | [Health checks and more...](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) |
+|4| WhoIsActive | Adam Machanic | [WhoIsActive?](https://github.com/amachanic/sp_whoisactive) |
+|5| Darling Data Scripts | Erik Darling | [Super-cool troubleshooting...](https://github.com/erikdarlingdata/DarlingData) |
+|||||
+|6| SQL Query Stress | Erik Ejlskov Jensen | [Stress that server!](https://github.com/ErikEJ/SqlQueryStress) |
+|7| Statistics Parser | Richie Rump | [Online Statistics Parser ](https://statisticsparser.com/) |
+|8| sp_block (script) | Chris Howarth-536003 | [Return blocked process hierarchy](sp_block.sql) |
